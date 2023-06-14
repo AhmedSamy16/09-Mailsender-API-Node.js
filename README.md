@@ -1,6 +1,8 @@
 # 09-Mailsender-API-Node.js
 
-This is project 9/50 of my Node.js projects series. It's an API that allows users to send emails using gmail.
+This is project 9/50 of my Node.js projects series. 
+
+It's an API that allows users to send emails using gmail.
 
 POST /sendEmail => Will send an email to the specified user or array of users with the subject, text and attachments submitted.
 
